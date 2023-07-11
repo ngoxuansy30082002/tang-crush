@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Yến  à! 😘',
+    introTitle: '...  à! 😘',
     introDesc: `Yêu một người không khó..
 Vì chẳng cần lí do..
 Chút tình cảm nho nhỏ..
